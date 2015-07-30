@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Factory Maintenance</string>
+
+    <string name="action_help">Help</string>
+    <string name="factory_url_hint">Factory Server-Address</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="title_activity_factory">Factory</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="listItems">
+        <item>Machine A</item>
+        <item>Machine B</item>
+        <item>Machine C</item>
+        <item>Machine D</item>
+        <item>Machine E</item>
+    </string-array>
+    <string name="title_activity_checklist">ChecklistActivity</string>
+</resources>
